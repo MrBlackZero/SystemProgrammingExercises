@@ -4,4 +4,4 @@ programmer : MrBlackZero
 -----------
 project detail :
 ---
-1- first project -> get system inforamtion 
+1-get system inforamtion 
