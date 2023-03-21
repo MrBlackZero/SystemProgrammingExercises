@@ -2,5 +2,6 @@
 ---
 programmer : MrBlackZero 
 -----------
-project detail : 
+project detail :
+---
 1- first project -> get system inforamtion 
