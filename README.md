@@ -1,2 +1,6 @@
 # SystemProgrammingExercises
- My System Programming Exercises
+-----------
+programmer : MrBlackZero 
+-----
+project detail : 
+1- first project -> get system inforamtion 
