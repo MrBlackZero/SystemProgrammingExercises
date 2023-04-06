@@ -27,7 +27,7 @@ void print_computername() {
 void print_versionwindows() {
 	    OSVERSIONINFO os_version = { sizeof(os_version) };
 	    GetVersionEx(&os_version);
-	    printf_s("Windows Version: %d.%d.%d.%d\n",os_version.dwMajorVersion,os_version.dwMinorVersion,os_version.dwBuildNumber);
+	    printf_s("Windows Version: %d.%d.%d\n",os_version.dwMajorVersion,os_version.dwMinorVersion,os_version.dwBuildNumber);
 }
 
 void print_ramsize() { 
